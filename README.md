@@ -2,4 +2,4 @@
 
 # Hasil Experiment Praktikum
 `Image`
-![Hasil Praktikum](image_1.png)
+![Hasil Praktikum](D:/KULIAHSEMESTER3/PEMOGRAMANWEB/PERTEMUAN5/Praktikum_lab4/image_1.png)
